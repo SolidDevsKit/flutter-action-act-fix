@@ -1,8 +1,8 @@
 > __Warning__
 >
 > **This repository is a fork to fix the "Permission denied" error when running this action locally
-with [act](https://github.com/nektos/act) and Docker.**  
-> **Indeed the [setup.sh](setup.sh) script is not executable by the Docker root user in the first step of the [action.yml](action.yml) file.**
+with [act](https://github.com/nektos/act) and Docker.
+Indeed the [setup.sh](setup.sh) script is not executable by the Docker root user in the first step of the [action.yml](action.yml) file otherwise.**
 
 # flutter-action
 
